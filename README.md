@@ -12,4 +12,4 @@ The final piece to this project is a visualization/dashboard of the results whic
 
 https://public.tableau.com/app/profile/trevor.peterson1629/viz/UtahHousingMarket_16574105109060/Dashboard1?publish=yes
 
-THANKS FOR READING :)
+
